@@ -2,7 +2,7 @@
 
 def countdown
   while n > 0
-    puts "#{n} SEONCD(S)!"
+    puts "#{n} SECOND(S)!"
   end
   HAPPY NEW YEAR!
 end

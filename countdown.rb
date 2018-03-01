@@ -4,5 +4,5 @@ def countdown
   while n > 0
     puts "#{n} SECOND(S)!"
   end
-  HAPPY NEW YEAR!
+  "HAPPY NEW YEAR!"
 end
